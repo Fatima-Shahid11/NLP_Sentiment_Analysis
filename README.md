@@ -1,4 +1,4 @@
-# NLP_Semantics_Analysis
+# NLP_Sentiment_Analysis
 Natural Language Processing (NLP) project for Semantics Analysis using Python and NLTK library.
 
 ## Overview
